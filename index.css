@@ -9,3 +9,20 @@
 li{
   list-style-type: none;
 }
+.top-selection{
+  border:2px solid green;
+  display:flex;
+  flex-direction: column;
+  justify-content:center;
+  align-items: center;
+}
+hr{
+  width:100%;
+  border:1px solid grey;
+}
+.first-hr{
+
+}
+.top-item{
+  margin-right:10px
+}
