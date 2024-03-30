@@ -1,3 +1,11 @@
 .card{
   border:2px solid red
 }
+.list-items{
+  display: flex;
+  flex-direction: row;
+  padding-left:0
+}
+li{
+  list-style-type: none;
+}
